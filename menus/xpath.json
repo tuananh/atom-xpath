@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Query XPath",
+        "command": "xpath:query"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "xpath",
+          "submenu": [
+            {
+              "label": "Query XPath",
+              "command": "xpath:query"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

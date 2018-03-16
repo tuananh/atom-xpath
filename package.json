@@ -1,0 +1,18 @@
+{
+  "name": "xpath",
+  "main": "./lib/xpath",
+  "version": "0.0.1",
+  "description": "Perform Xpath Query on selected text",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "xpath:query"
+  },
+  "repository": "https://github.com/tuananh/atom-xpath",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
