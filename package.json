@@ -1,7 +1,7 @@
 {
   "name": "atom-xpath",
   "main": "./lib/xpath",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Perform Xpath Query on selected text",
   "keywords": [],
   "activationCommands": {
