@@ -1,10 +1,9 @@
 {
-  "name": "xpath",
+  "name": "atom-xpath",
   "main": "./lib/xpath",
   "version": "0.0.1",
   "description": "Perform Xpath Query on selected text",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "xpath:query"
   },
@@ -14,5 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "@aki77/atom-input-dialog": "^1.0.0",
+    "xmldom": "^0.1.27",
+    "xpath": "0.0.27"
   }
 }
